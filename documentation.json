@@ -1,151 +1,150 @@
 {
-  "name": "Starter Kit",
+  "name": "Hill Country Chocolate",
   "colors": {
     "light": {
-      "brand": "#F97316"
+      "brand": "#5C3D2E"
     },
     "dark": {
-      "brand": "#FDBA74"
+      "brand": "#D4A574"
     }
   },
   "navigation": {
     "tabs": [
       {
-        "tab": "Documentation",
-        "icon": "book",
-        "groups": [
-          {
-            "group": "Start Here",
-            "icon": "rocket",
-            "pages": [
-              {
-                "title": "Introduction",
-                "path": "introduction",
-                "icon": "home"
-              },
-              {
-                "title": "Quickstart",
-                "path": "quickstart",
-                "icon": "zap"
-              },
-              {
-                "title": "Components",
-                "path": "components",
-                "icon": "code"
-              }
-            ]
-          },
-          {
-            "group": "Components",
-            "icon": "layers",
-            "pages": [
-              {
-                "title": "Images",
-                "path": "components/images",
-                "icon": "image"
-              },
-              {
-                "title": "Cards",
-                "path": "components/cards",
-                "icon": "square"
-              },
-              {
-                "title": "Code",
-                "path": "components/code",
-                "icon": "code"
-              },
-              {
-                "title": "Callouts",
-                "path": "components/callouts",
-                "icon": "message-square"
-              },
-              {
-                "title": "Steps",
-                "path": "components/steps",
-                "icon": "list-ordered"
-              },
-              {
-                "title": "Tabs",
-                "path": "components/tabs",
-                "icon": "columns"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "API Reference",
-        "icon": "code",
+        "tab": "Products",
+        "icon": "shopping-bag",
         "groups": [
           {
             "group": "Overview",
+            "icon": "home",
+            "pages": [
+              {
+                "title": "All Products",
+                "path": "introduction",
+                "icon": "home"
+              }
+            ]
+          },
+          {
+            "group": "Chocolates",
+            "icon": "heart",
+            "pages": [
+              {
+                "title": "Bonbons & Artisan Chocolates",
+                "path": "products/bonbons",
+                "icon": "heart"
+              },
+              {
+                "title": "Toffee",
+                "path": "products/toffee",
+                "icon": "star"
+              },
+              {
+                "title": "Caramels & Clusters",
+                "path": "products/caramels",
+                "icon": "circle"
+              },
+              {
+                "title": "Confections & Snacks",
+                "path": "products/confections",
+                "icon": "package"
+              }
+            ]
+          },
+          {
+            "group": "More",
+            "icon": "plus",
+            "pages": [
+              {
+                "title": "Pecans & Savory",
+                "path": "products/pecans",
+                "icon": "leaf"
+              },
+              {
+                "title": "Drinking Chocolate",
+                "path": "products/drinking-chocolate",
+                "icon": "coffee"
+              },
+              {
+                "title": "Gift Collections",
+                "path": "products/gifts",
+                "icon": "gift"
+              },
+              {
+                "title": "DKM Cellars Wine",
+                "path": "products/wine",
+                "icon": "wine"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Experiences",
+        "icon": "map-pin",
+        "pages": [
+          {
+            "title": "Tastings & Tours",
+            "path": "experiences/tastings",
+            "icon": "map-pin"
+          },
+          {
+            "title": "Corporate & Events",
+            "path": "experiences/events",
+            "icon": "users"
+          },
+          {
+            "title": "Gift Certificates",
+            "path": "experiences/gift-certificates",
+            "icon": "gift"
+          }
+        ]
+      },
+      {
+        "tab": "About",
+        "icon": "info",
+        "groups": [
+          {
+            "group": "Company",
+            "icon": "info",
+            "pages": [
+              {
+                "title": "Our Story",
+                "path": "about/story",
+                "icon": "book-open"
+              },
+              {
+                "title": "Visit Us",
+                "path": "about/visit",
+                "icon": "map-pin"
+              },
+              {
+                "title": "FAQ",
+                "path": "about/faq",
+                "icon": "help-circle"
+              }
+            ]
+          },
+          {
+            "group": "Policies",
             "icon": "file-text",
             "pages": [
               {
-                "title": "Authentication",
-                "path": "authentication",
-                "icon": "lock"
-              }
-            ]
-          },
-          {
-            "group": "Sample Endpoints",
-            "openapi": "openapi.yaml"
-          }
-        ]
-      },
-      {
-        "tab": "Help Center",
-        "icon": "help-circle",
-        "pages": [
-          {
-            "title": "Help Center",
-            "path": "help-center",
-            "icon": "home"
-          },
-          {
-            "group": "FAQs",
-            "icon": "help-circle",
-            "expandable": false,
-            "pages": [
+                "title": "Shipping",
+                "path": "about/shipping",
+                "icon": "truck"
+              },
               {
-                "title": "Documentation Source",
-                "path": "help-center/faq/getting-started"
-              }
-            ]
-          },
-          {
-            "group": "Troubleshooting",
-            "icon": "alert-triangle",
-            "expandable": false,
-            "pages": [
+                "title": "Returns",
+                "path": "about/returns",
+                "icon": "rotate-ccw"
+              },
               {
-                "title": "Page Missing in Sidebar",
-                "path": "help-center/troubleshooting/install-error"
+                "title": "Allergens",
+                "path": "about/allergens",
+                "icon": "alert-triangle"
               }
             ]
-          },
-          {
-            "group": "Guides",
-            "icon": "book-open",
-            "expandable": false,
-            "pages": [
-              {
-                "title": "Create Your First Page",
-                "path": "help-center/guides/setup-project"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "Changelog",
-        "icon": "clock",
-        "pages": [
-          {
-            "title": "Changelog",
-            "path": "changelog",
-            "icon": "history"
           }
         ]
       }

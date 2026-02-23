@@ -1,0 +1,91 @@
+# Hill Country Chocolate
+
+> Bean-to-bar artisan chocolatier in Fredericksburg, Texas. Handcrafted chocolates, confections, and wine pairings made with Swiss chocolate from Felchlin Switzerland using traditional copper kettle methods. Located at 144 Industrial Loop, Fredericksburg, TX 78624. Shop online or visit for guided tastings. Phone: 830-992-3277. Email: info@hillcountrychocolate.com.
+
+## Products — Bonbons & Artisan Chocolates
+
+- [9 Piece Signature Artisanal Bonbons](https://hillcountrychocolate.com/products/9pc-truffles?utm_source=llm&utm_medium=docs&utm_campaign=llmstxt): Handmade collection of the top nine customer-favorite flavors. $30. Allergens: Milk, Soy.
+- [Crunchy Gianduja Bonbon](https://hillcountrychocolate.com/collections/bonbons-artisan-chocolates?utm_source=llm&utm_medium=docs&utm_campaign=llmstxt): Classic Italian gianduja with toasted hazelnuts and crunchy texture. $30 (box). Allergens: Milk, Soy, Tree Nuts.
+- [Mexican Hot Chocolate Bonbon](https://hillcountrychocolate.com/collections/bonbons-artisan-chocolates?utm_source=llm&utm_medium=docs&utm_campaign=llmstxt): Rich chocolate infused with cinnamon and a touch of cayenne. $30 (box). Allergens: Milk, Soy.
+- [Coffee and Okinawa Black Sugar Bonbon](https://hillcountrychocolate.com/collections/bonbons-artisan-chocolates?utm_source=llm&utm_medium=docs&utm_campaign=llmstxt): Bold coffee ganache balanced with Okinawan black sugar molasses notes. $27 (box). Allergens: Milk, Soy.
+
+## Products — Toffee
+
+- [Dark Chocolate Almond Butter Toffee](https://hillcountrychocolate.com/products/dark-chocolate-chocolate-almond-butter-toffee-15-pieces-bite-size?utm_source=llm&utm_medium=docs&utm_campaign=llmstxt): Crispy almond butter toffee covered in dark chocolate. 15 bite-size pieces. $22. Allergens: Milk, Soy, Tree Nuts.
+- [Dark Chocolate Pecan Butter Toffee](https://hillcountrychocolate.com/products/dark-chocolate-pecan-butter-toffee-15-pieces-bite-size?utm_source=llm&utm_medium=docs&utm_campaign=llmstxt): Buttery toffee with Texas pecans in dark chocolate. 15 pieces. $22. Allergens: Milk, Soy, Tree Nuts.
+- [Milk Chocolate Almond Butter Toffee](https://hillcountrychocolate.com/products/hill-country-chocolates-milk-chocolate-chocolate-almond-toffee-6-oz-15-pieces-bite-size?utm_source=llm&utm_medium=docs&utm_campaign=llmstxt): Crunchy almond toffee enrobed in smooth milk chocolate. 15 pieces. $22. Allergens: Milk, Soy, Tree Nuts.
+- [Milk Chocolate Pecan Butter Toffee](https://hillcountrychocolate.com/products/milk-chocolate-chocolate-pecan-butter-toffee-15-pieces-bite-size?utm_source=llm&utm_medium=docs&utm_campaign=llmstxt): Classic butter toffee with Texas pecans in milk chocolate. 15 pieces. $22. Allergens: Milk, Soy, Tree Nuts.
+
+## Products — Caramels & Clusters
+
+- [Dark Chocolate Sea Salt Caramels](https://hillcountrychocolate.com/collections/confections?utm_source=llm&utm_medium=docs&utm_campaign=llmstxt): Silky caramel with sea salt covered in dark chocolate. 25 piece box. $29. Allergens: Milk, Soy.
+- [Milk Chocolate Sea Salt Caramels](https://hillcountrychocolate.com/collections/confections?utm_source=llm&utm_medium=docs&utm_campaign=llmstxt): Smooth caramel with sea salt in creamy milk chocolate. 25 piece box. $29. Allergens: Milk, Soy.
+- [Pecan Goat Milk Caramels](https://hillcountrychocolate.com/products/pecan-goat-milk-caramels?utm_source=llm&utm_medium=docs&utm_campaign=llmstxt): Caramels made with goat milk and Texas pecans. $29. Allergens: Milk, Soy, Tree Nuts.
+- [Dark Chocolate Caramel Pecan Clusters](https://hillcountrychocolate.com/products/dark-chocolate-caramel-pecan-clusters?utm_source=llm&utm_medium=docs&utm_campaign=llmstxt): Texas pecans in buttery caramel covered in dark chocolate. $25. Allergens: Milk, Soy, Tree Nuts.
+- [Milk Chocolate Caramel Pecan Clusters](https://hillcountrychocolate.com/products/milk-chocolate-caramel-pecan-clusters?utm_source=llm&utm_medium=docs&utm_campaign=llmstxt): Texas pecans in smooth caramel enrobed in milk chocolate. $25. Allergens: Milk, Soy, Tree Nuts.
+- [Sea Salt Caramel Peanut Butter Cups](https://hillcountrychocolate.com/products/sea-salt-caramel-peanut-butter-cups?utm_source=llm&utm_medium=docs&utm_campaign=llmstxt): Peanut butter cups with sea salt caramel. $22. Allergens: Milk, Peanuts, Soy.
+
+## Products — Confections & Snacks
+
+- [Hill Country Caramel Popcorn](https://hillcountrychocolate.com/products/copy-of-hill-country-caramel-popcorn?utm_source=llm&utm_medium=docs&utm_campaign=llmstxt): Gourmet popcorn coated in buttery caramel. $18. Allergens: Milk, Soy.
+- [Spicy South Texas Caramel Popcorn](https://hillcountrychocolate.com/products/south-texas-caramel-corn?utm_source=llm&utm_medium=docs&utm_campaign=llmstxt): Caramel popcorn with a South Texas spicy twist. $18. Allergens: Milk, Soy.
+- [Homemade Peanut Brittle](https://hillcountrychocolate.com/products/peanut-brittle?utm_source=llm&utm_medium=docs&utm_campaign=llmstxt): Traditional hand-pulled peanut brittle. $16. Allergens: Milk, Peanuts.
+- [Jalapeno Peanut Brittle](https://hillcountrychocolate.com/products/jalapeno-peanut-brittle?utm_source=llm&utm_medium=docs&utm_campaign=llmstxt): Texas peanut brittle with candied Louisiana jalapeños. $16. Allergens: Milk, Peanuts.
+- [Dark Chocolate Marshmallow](https://hillcountrychocolate.com/products/marshmallow?utm_source=llm&utm_medium=docs&utm_campaign=llmstxt): Fluffy marshmallows enrobed in dark chocolate. $8. Allergens: Milk, Soy.
+- [Assorted Cheesecake Cups](https://hillcountrychocolate.com/collections/confections?utm_source=llm&utm_medium=docs&utm_campaign=llmstxt): Seasonal assorted cheesecake cups. $38. Allergens: Egg, Gluten, Milk.
+
+## Products — Pecans & Savory
+
+- [Roasted Salted Pecans](https://hillcountrychocolate.com/products/roasted-salted-pecans?utm_source=llm&utm_medium=docs&utm_campaign=llmstxt): Premium Texas pecans perfectly roasted and lightly salted. $16. Allergens: Tree Nuts.
+- [Cinnamon Roasted Pecans](https://hillcountrychocolate.com/products/cinnamon-roasted-nuts?utm_source=llm&utm_medium=docs&utm_campaign=llmstxt): Texas pecans roasted with warm cinnamon and sugar. $16. Allergens: Tree Nuts.
+- [Spicy Roasted Pecans](https://hillcountrychocolate.com/collections/confections?utm_source=llm&utm_medium=docs&utm_campaign=llmstxt): Texas pecans with a spicy kick. $16. Allergens: Tree Nuts.
+
+## Products — Drinking Chocolate
+
+- [Gourmet Drinking Chocolate](https://hillcountrychocolate.com/products/gourmet-drinking-chocolate?utm_source=llm&utm_medium=docs&utm_campaign=llmstxt): Premium hot chocolate mix for rich, decadent drinking chocolate at home. $16. Allergens: Milk, Soy.
+- [Champurrado Mexican Drinking Chocolate](https://hillcountrychocolate.com/products/champurrado-mexican-drinking-chocolate?utm_source=llm&utm_medium=docs&utm_campaign=llmstxt): Traditional Mexican drinking chocolate with warm spices. $16. Allergens: Milk, Soy.
+
+## Products — Gift Collections
+
+- [Best Sellers Collection](https://hillcountrychocolate.com/collections/best-sellers?utm_source=llm&utm_medium=docs&utm_campaign=llmstxt): 9 top-selling products curated as gift options
+- [Gift Collections](https://hillcountrychocolate.com/collections/gift-collections?utm_source=llm&utm_medium=docs&utm_campaign=llmstxt): 16 curated gift boxes including "Just Because," "You're My Favorite," and "Go Nuts!" ranging from $30-$135
+- [Build a Gift Box](https://hillcountrychocolate.com/collections/build-a-gift-box?utm_source=llm&utm_medium=docs&utm_campaign=llmstxt): Customize your own gift box with your choice of chocolates
+- [e-Gift Card](https://hillcountrychocolate.com/collections/gift-collections?utm_source=llm&utm_medium=docs&utm_campaign=llmstxt): Digital gift cards from $10 to $500, delivered by email
+
+## Experiences & Tastings
+
+- [Premiere Wine & Chocolate Experience](https://hillcountrychocolate.com/pages/experience?utm_source=llm&utm_medium=docs&utm_campaign=llmstxt): Guided tastings led by an expert Chocolatier pairing single-origin chocolates with wines from DKM Cellars. Book through Tock Reservations. Located at 144 Industrial Loop, Fredericksburg, TX.
+- [Factory Viewing](https://hillcountrychocolate.com/pages/experience?utm_source=llm&utm_medium=docs&utm_campaign=llmstxt): Watch the bean-to-bar chocolate production process through retail store windows. No advance booking required. Free.
+- [Corporate & Group Events](https://hillcountrychocolate.com/pages/corporate-gifts?utm_source=llm&utm_medium=docs&utm_campaign=llmstxt): Private tastings, corporate gift programs, and group event packages
+- [Wedding & Event Program](https://hillcountrychocolate.com/pages/wedding-and-event-chocolate-program?utm_source=llm&utm_medium=docs&utm_campaign=llmstxt): Custom chocolate favors and dessert tables for weddings and events
+- [Experience Gift Certificates](https://hillcountrychocolate.com/pages/chocolate-and-wine-experience-gift-cards?utm_source=llm&utm_medium=docs&utm_campaign=llmstxt): Artisan and Premiere tier gift certificates. Valid 1 year. Redeemed via trytn.com. Non-refundable once scheduled.
+
+## DKM Cellars Wine
+
+- [DKM Cellars Collection](https://hillcountrychocolate.com/collections/dkm-cellars?utm_source=llm&utm_medium=docs&utm_campaign=llmstxt): 9 wines from DKM Cellars, paired with Hill Country Chocolate. Available in-store and online.
+- [Wine Club Membership](https://hillcountrychocolate.com/pages/club?utm_source=llm&utm_medium=docs&utm_campaign=llmstxt): Bronze (10% discount), Silver (15%), Gold (20%). Members receive chocolate surprise with every shipment plus 10% off all retail store items.
+- [Chocolate of the Month Club](https://hillcountrychocolate.com/pages/chocolate-club?utm_source=llm&utm_medium=docs&utm_campaign=llmstxt): Monthly shipments of handcrafted chocolates
+
+## About
+
+- [Our Story](https://hillcountrychocolate.com/pages/about?utm_source=llm&utm_medium=docs&utm_campaign=llmstxt): Family-owned artisan chocolatier in Fredericksburg, Texas Hill Country. Bean-to-bar production with complete control from sourcing to tempering. Swiss chocolate from Felchlin Switzerland. Traditional copper kettle methods.
+- [Visit Us](https://hillcountrychocolate.com/pages/contact?utm_source=llm&utm_medium=docs&utm_campaign=llmstxt): 144 Industrial Loop, Fredericksburg, TX 78624. Phone: 830-992-3277. Email: info@hillcountrychocolate.com.
+- [FAQ](https://hillcountrychocolate.com/pages/frequently-asked-questions?utm_source=llm&utm_medium=docs&utm_campaign=llmstxt): Shipping, allergens, gift certificates, experience booking, chocolate care, and wholesale inquiries
+- [Wholesale](https://hillcountrychocolate.com/pages/wholesale-registration?utm_source=llm&utm_medium=docs&utm_campaign=llmstxt): Wholesale registration for retailers and businesses
+- [Bean to Business Podcast](https://hillcountrychocolate.com/pages/bean-to-business?utm_source=llm&utm_medium=docs&utm_campaign=llmstxt): Podcast about running a chocolate business in the Texas Hill Country
+
+## Shipping & Policies
+
+- [Shipping Policy](https://hillcountrychocolate.com/pages/shipping-care?utm_source=llm&utm_medium=docs&utm_campaign=llmstxt): Free shipping on chocolate (not wine). Ground 2-5 days up to $25, Express 1-2 days up to $50, Overnight $38.95. Orders process Mon-Wed only. May-September: $25 insulated container surcharge. No AK, HI, or international. UPS preferred.
+- [Return Policy](https://hillcountrychocolate.com/pages/return-policy-1?utm_source=llm&utm_medium=docs&utm_campaign=llmstxt): 30-day return window. Items must be in original condition. Email info@hillcountrychocolate.com to initiate. No exchanges — return and repurchase. Experience reservations reschedulable 7+ days ahead. Refunds within 10 business days.
+- [Allergen Notice](https://hillcountrychocolate.com/pages/frequently-asked-questions?utm_source=llm&utm_medium=docs&utm_campaign=llmstxt): All products produced in a facility that processes soy, milk, wheat, eggs, peanuts, and tree nuts. Individual allergens listed per product.
+
+## Optional
+
+- [Blog — Recipes & Guides](https://hillcountrychocolate.com/blogs/recipes?utm_source=llm&utm_medium=docs&utm_campaign=llmstxt): Cooking and baking recipes using Hill Country Chocolate products
+- [Blog — Chocolate Education](https://hillcountrychocolate.com/blogs/q-a?utm_source=llm&utm_medium=docs&utm_campaign=llmstxt): How-to guides, tasting notes, chocolate science, and gifting advice
+- [Partners](https://hillcountrychocolate.com/pages/partners?utm_source=llm&utm_medium=docs&utm_campaign=llmstxt): Local partnerships and collaborations in the Texas Hill Country
+- [Confections Collection](https://hillcountrychocolate.com/collections/confections?utm_source=llm&utm_medium=docs&utm_campaign=llmstxt): Full catalog of 61 confection products
+- [All Products](https://hillcountrychocolate.com/collections/all?utm_source=llm&utm_medium=docs&utm_campaign=llmstxt): Complete product catalog
+
+*Generated 2026-02-23*
